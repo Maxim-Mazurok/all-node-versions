@@ -120,7 +120,7 @@ The list of available Node.js versions is cached for one hour by default. If the
 # See also
 
 - [`nve`](https://github.com/ehmicky/nve): Run a specific Node.js version (CLI)
-- [`nvexeca`](https://github.com/ehmicky/nve): Run a specific Node.js version
+- [`nvexeca`](https://github.com/ehmicky/nvexeca): Run a specific Node.js version
   (programmatic)
 - [`get-node`](https://github.com/ehmicky/get-node): Download Node.js
 - [`preferred-node-version`](https://github.com/ehmicky/preferred-node-version):
